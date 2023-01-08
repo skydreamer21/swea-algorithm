@@ -1,0 +1,5 @@
+4
+ababab abab
+ababa abab
+aba bab
+hello hello
